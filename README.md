@@ -1,2 +1,2 @@
 # hello-word
-My first ZIv Vit
+My first ZIv Git
